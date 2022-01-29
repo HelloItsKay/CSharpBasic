@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\04.For Loop - Lab\02. Numbers N to 1\bin\Debug\netcoreapp3.1\02. Numbers N to 1.exe
+C:\Users\krust\source\repos\04.For Loop - Lab\02. Numbers N to 1\bin\Debug\netcoreapp3.1\02. Numbers N to 1.deps.json
+C:\Users\krust\source\repos\04.For Loop - Lab\02. Numbers N to 1\bin\Debug\netcoreapp3.1\02. Numbers N to 1.runtimeconfig.json
+C:\Users\krust\source\repos\04.For Loop - Lab\02. Numbers N to 1\bin\Debug\netcoreapp3.1\02. Numbers N to 1.runtimeconfig.dev.json
+C:\Users\krust\source\repos\04.For Loop - Lab\02. Numbers N to 1\bin\Debug\netcoreapp3.1\02. Numbers N to 1.dll
+C:\Users\krust\source\repos\04.For Loop - Lab\02. Numbers N to 1\bin\Debug\netcoreapp3.1\02. Numbers N to 1.pdb
+C:\Users\krust\source\repos\04.For Loop - Lab\02. Numbers N to 1\obj\Debug\netcoreapp3.1\02. Numbers N to 1.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\04.For Loop - Lab\02. Numbers N to 1\obj\Debug\netcoreapp3.1\02. Numbers N to 1.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\04.For Loop - Lab\02. Numbers N to 1\obj\Debug\netcoreapp3.1\02. Numbers N to 1.AssemblyInfo.cs
+C:\Users\krust\source\repos\04.For Loop - Lab\02. Numbers N to 1\obj\Debug\netcoreapp3.1\02. Numbers N to 1.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\04.For Loop - Lab\02. Numbers N to 1\obj\Debug\netcoreapp3.1\02. Numbers N to 1.dll
+C:\Users\krust\source\repos\04.For Loop - Lab\02. Numbers N to 1\obj\Debug\netcoreapp3.1\02. Numbers N to 1.pdb
+C:\Users\krust\source\repos\04.For Loop - Lab\02. Numbers N to 1\obj\Debug\netcoreapp3.1\02. Numbers N to 1.genruntimeconfig.cache

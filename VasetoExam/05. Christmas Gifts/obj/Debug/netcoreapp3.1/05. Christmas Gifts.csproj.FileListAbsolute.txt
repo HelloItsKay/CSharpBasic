@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\01. Moon\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.exe
+C:\Users\krust\source\repos\01. Moon\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.deps.json
+C:\Users\krust\source\repos\01. Moon\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.runtimeconfig.json
+C:\Users\krust\source\repos\01. Moon\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.runtimeconfig.dev.json
+C:\Users\krust\source\repos\01. Moon\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.dll
+C:\Users\krust\source\repos\01. Moon\05. Christmas Gifts\bin\Debug\netcoreapp3.1\05. Christmas Gifts.pdb
+C:\Users\krust\source\repos\01. Moon\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\01. Moon\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\01. Moon\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.AssemblyInfo.cs
+C:\Users\krust\source\repos\01. Moon\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\01. Moon\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.dll
+C:\Users\krust\source\repos\01. Moon\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.pdb
+C:\Users\krust\source\repos\01. Moon\05. Christmas Gifts\obj\Debug\netcoreapp3.1\05. Christmas Gifts.genruntimeconfig.cache

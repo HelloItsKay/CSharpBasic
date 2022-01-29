@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\01. Moon\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.exe
+C:\Users\krust\source\repos\01. Moon\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.deps.json
+C:\Users\krust\source\repos\01. Moon\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.runtimeconfig.json
+C:\Users\krust\source\repos\01. Moon\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.runtimeconfig.dev.json
+C:\Users\krust\source\repos\01. Moon\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.dll
+C:\Users\krust\source\repos\01. Moon\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.pdb
+C:\Users\krust\source\repos\01. Moon\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\01. Moon\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\01. Moon\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.AssemblyInfo.cs
+C:\Users\krust\source\repos\01. Moon\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\01. Moon\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.dll
+C:\Users\krust\source\repos\01. Moon\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.pdb
+C:\Users\krust\source\repos\01. Moon\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.genruntimeconfig.cache

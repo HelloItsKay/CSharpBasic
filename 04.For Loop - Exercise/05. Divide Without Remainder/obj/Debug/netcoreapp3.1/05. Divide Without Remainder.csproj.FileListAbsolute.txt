@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\For Loop - Exercise\05. Divide Without Remainder\bin\Debug\netcoreapp3.1\05. Divide Without Remainder.exe
+C:\Users\krust\source\repos\For Loop - Exercise\05. Divide Without Remainder\bin\Debug\netcoreapp3.1\05. Divide Without Remainder.deps.json
+C:\Users\krust\source\repos\For Loop - Exercise\05. Divide Without Remainder\bin\Debug\netcoreapp3.1\05. Divide Without Remainder.runtimeconfig.json
+C:\Users\krust\source\repos\For Loop - Exercise\05. Divide Without Remainder\bin\Debug\netcoreapp3.1\05. Divide Without Remainder.runtimeconfig.dev.json
+C:\Users\krust\source\repos\For Loop - Exercise\05. Divide Without Remainder\bin\Debug\netcoreapp3.1\05. Divide Without Remainder.dll
+C:\Users\krust\source\repos\For Loop - Exercise\05. Divide Without Remainder\bin\Debug\netcoreapp3.1\05. Divide Without Remainder.pdb
+C:\Users\krust\source\repos\For Loop - Exercise\05. Divide Without Remainder\obj\Debug\netcoreapp3.1\05. Divide Without Remainder.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\For Loop - Exercise\05. Divide Without Remainder\obj\Debug\netcoreapp3.1\05. Divide Without Remainder.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\For Loop - Exercise\05. Divide Without Remainder\obj\Debug\netcoreapp3.1\05. Divide Without Remainder.AssemblyInfo.cs
+C:\Users\krust\source\repos\For Loop - Exercise\05. Divide Without Remainder\obj\Debug\netcoreapp3.1\05. Divide Without Remainder.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\For Loop - Exercise\05. Divide Without Remainder\obj\Debug\netcoreapp3.1\05. Divide Without Remainder.dll
+C:\Users\krust\source\repos\For Loop - Exercise\05. Divide Without Remainder\obj\Debug\netcoreapp3.1\05. Divide Without Remainder.pdb
+C:\Users\krust\source\repos\For Loop - Exercise\05. Divide Without Remainder\obj\Debug\netcoreapp3.1\05. Divide Without Remainder.genruntimeconfig.cache

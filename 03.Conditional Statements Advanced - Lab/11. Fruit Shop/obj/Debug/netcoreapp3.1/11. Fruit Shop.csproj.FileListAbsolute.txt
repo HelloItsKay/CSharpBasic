@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\01. Day of Week\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.exe
+C:\Users\krust\source\repos\01. Day of Week\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.deps.json
+C:\Users\krust\source\repos\01. Day of Week\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.json
+C:\Users\krust\source\repos\01. Day of Week\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.dev.json
+C:\Users\krust\source\repos\01. Day of Week\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.dll
+C:\Users\krust\source\repos\01. Day of Week\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+C:\Users\krust\source\repos\01. Day of Week\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\01. Day of Week\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\01. Day of Week\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfo.cs
+C:\Users\krust\source\repos\01. Day of Week\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\01. Day of Week\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.dll
+C:\Users\krust\source\repos\01. Day of Week\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+C:\Users\krust\source\repos\01. Day of Week\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.genruntimeconfig.cache

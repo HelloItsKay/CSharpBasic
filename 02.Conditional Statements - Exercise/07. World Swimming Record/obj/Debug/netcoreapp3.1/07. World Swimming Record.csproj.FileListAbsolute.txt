@@ -1,0 +1,12 @@
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.exe
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.deps.json
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.runtimeconfig.json
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.runtimeconfig.dev.json
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.dll
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\07. World Swimming Record\bin\Debug\netcoreapp3.1\07. World Swimming Record.pdb
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.AssemblyInfo.cs
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.dll
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.pdb
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\07. World Swimming Record\obj\Debug\netcoreapp3.1\07. World Swimming Record.genruntimeconfig.cache

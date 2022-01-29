@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\04. Metric Converter\bin\Debug\netcoreapp3.1\04. Metric Converter.exe
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\04. Metric Converter\bin\Debug\netcoreapp3.1\04. Metric Converter.deps.json
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\04. Metric Converter\bin\Debug\netcoreapp3.1\04. Metric Converter.runtimeconfig.json
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\04. Metric Converter\bin\Debug\netcoreapp3.1\04. Metric Converter.runtimeconfig.dev.json
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\04. Metric Converter\bin\Debug\netcoreapp3.1\04. Metric Converter.dll
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\04. Metric Converter\bin\Debug\netcoreapp3.1\04. Metric Converter.pdb
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\04. Metric Converter\obj\Debug\netcoreapp3.1\04. Metric Converter.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\04. Metric Converter\obj\Debug\netcoreapp3.1\04. Metric Converter.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\04. Metric Converter\obj\Debug\netcoreapp3.1\04. Metric Converter.AssemblyInfo.cs
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\04. Metric Converter\obj\Debug\netcoreapp3.1\04. Metric Converter.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\04. Metric Converter\obj\Debug\netcoreapp3.1\04. Metric Converter.dll
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\04. Metric Converter\obj\Debug\netcoreapp3.1\04. Metric Converter.pdb
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\04. Metric Converter\obj\Debug\netcoreapp3.1\04. Metric Converter.genruntimeconfig.cache

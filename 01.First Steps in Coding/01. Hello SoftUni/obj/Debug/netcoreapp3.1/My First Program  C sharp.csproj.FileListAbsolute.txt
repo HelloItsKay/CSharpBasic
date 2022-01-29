@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\First Steps in Coding\My First Program  C sharp\bin\Debug\netcoreapp3.1\My First Program  C sharp.exe
+C:\Users\krust\source\repos\First Steps in Coding\My First Program  C sharp\bin\Debug\netcoreapp3.1\My First Program  C sharp.deps.json
+C:\Users\krust\source\repos\First Steps in Coding\My First Program  C sharp\bin\Debug\netcoreapp3.1\My First Program  C sharp.runtimeconfig.json
+C:\Users\krust\source\repos\First Steps in Coding\My First Program  C sharp\bin\Debug\netcoreapp3.1\My First Program  C sharp.runtimeconfig.dev.json
+C:\Users\krust\source\repos\First Steps in Coding\My First Program  C sharp\bin\Debug\netcoreapp3.1\My First Program  C sharp.dll
+C:\Users\krust\source\repos\First Steps in Coding\My First Program  C sharp\bin\Debug\netcoreapp3.1\My First Program  C sharp.pdb
+C:\Users\krust\source\repos\First Steps in Coding\My First Program  C sharp\obj\Debug\netcoreapp3.1\My First Program  C sharp.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\First Steps in Coding\My First Program  C sharp\obj\Debug\netcoreapp3.1\My First Program  C sharp.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\First Steps in Coding\My First Program  C sharp\obj\Debug\netcoreapp3.1\My First Program  C sharp.AssemblyInfo.cs
+C:\Users\krust\source\repos\First Steps in Coding\My First Program  C sharp\obj\Debug\netcoreapp3.1\My First Program  C sharp.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\First Steps in Coding\My First Program  C sharp\obj\Debug\netcoreapp3.1\My First Program  C sharp.dll
+C:\Users\krust\source\repos\First Steps in Coding\My First Program  C sharp\obj\Debug\netcoreapp3.1\My First Program  C sharp.pdb
+C:\Users\krust\source\repos\First Steps in Coding\My First Program  C sharp\obj\Debug\netcoreapp3.1\My First Program  C sharp.genruntimeconfig.cache

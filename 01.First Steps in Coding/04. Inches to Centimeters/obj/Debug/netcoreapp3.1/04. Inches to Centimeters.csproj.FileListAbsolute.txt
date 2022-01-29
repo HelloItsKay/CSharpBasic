@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\First Steps in Coding\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\First Steps in Coding\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\First Steps in Coding\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.AssemblyInfo.cs
+C:\Users\krust\source\repos\First Steps in Coding\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\First Steps in Coding\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.exe
+C:\Users\krust\source\repos\First Steps in Coding\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.deps.json
+C:\Users\krust\source\repos\First Steps in Coding\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.runtimeconfig.json
+C:\Users\krust\source\repos\First Steps in Coding\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.runtimeconfig.dev.json
+C:\Users\krust\source\repos\First Steps in Coding\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.dll
+C:\Users\krust\source\repos\First Steps in Coding\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.pdb
+C:\Users\krust\source\repos\First Steps in Coding\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.dll
+C:\Users\krust\source\repos\First Steps in Coding\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.pdb
+C:\Users\krust\source\repos\First Steps in Coding\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.genruntimeconfig.cache

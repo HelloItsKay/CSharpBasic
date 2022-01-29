@@ -1,0 +1,12 @@
+C:\Users\krust\source\repos\VasetoExam\GoldMineV2\obj\Debug\netcoreapp3.1\GoldMineV2.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\VasetoExam\GoldMineV2\obj\Debug\netcoreapp3.1\GoldMineV2.AssemblyInfo.cs
+C:\Users\krust\source\repos\VasetoExam\GoldMineV2\obj\Debug\netcoreapp3.1\GoldMineV2.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\VasetoExam\GoldMineV2\bin\Debug\netcoreapp3.1\GoldMineV2.exe
+C:\Users\krust\source\repos\VasetoExam\GoldMineV2\bin\Debug\netcoreapp3.1\GoldMineV2.deps.json
+C:\Users\krust\source\repos\VasetoExam\GoldMineV2\bin\Debug\netcoreapp3.1\GoldMineV2.runtimeconfig.json
+C:\Users\krust\source\repos\VasetoExam\GoldMineV2\bin\Debug\netcoreapp3.1\GoldMineV2.runtimeconfig.dev.json
+C:\Users\krust\source\repos\VasetoExam\GoldMineV2\bin\Debug\netcoreapp3.1\GoldMineV2.dll
+C:\Users\krust\source\repos\VasetoExam\GoldMineV2\bin\Debug\netcoreapp3.1\GoldMineV2.pdb
+C:\Users\krust\source\repos\VasetoExam\GoldMineV2\obj\Debug\netcoreapp3.1\GoldMineV2.dll
+C:\Users\krust\source\repos\VasetoExam\GoldMineV2\obj\Debug\netcoreapp3.1\GoldMineV2.pdb
+C:\Users\krust\source\repos\VasetoExam\GoldMineV2\obj\Debug\netcoreapp3.1\GoldMineV2.genruntimeconfig.cache

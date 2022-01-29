@@ -1,0 +1,12 @@
+C:\Users\krust\source\repos\04.For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.exe
+C:\Users\krust\source\repos\04.For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.deps.json
+C:\Users\krust\source\repos\04.For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.runtimeconfig.json
+C:\Users\krust\source\repos\04.For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.runtimeconfig.dev.json
+C:\Users\krust\source\repos\04.For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.dll
+C:\Users\krust\source\repos\04.For Loop - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.pdb
+C:\Users\krust\source\repos\04.For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\04.For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.AssemblyInfo.cs
+C:\Users\krust\source\repos\04.For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\04.For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.dll
+C:\Users\krust\source\repos\04.For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.pdb
+C:\Users\krust\source\repos\04.For Loop - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.genruntimeconfig.cache

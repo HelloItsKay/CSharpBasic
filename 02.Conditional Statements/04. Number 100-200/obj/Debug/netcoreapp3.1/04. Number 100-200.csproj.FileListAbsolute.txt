@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\BlankSolution\04. Number 100-200\obj\Debug\netcoreapp3.1\04. Number 100-200.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\BlankSolution\04. Number 100-200\obj\Debug\netcoreapp3.1\04. Number 100-200.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\BlankSolution\04. Number 100-200\obj\Debug\netcoreapp3.1\04. Number 100-200.AssemblyInfo.cs
+C:\Users\krust\source\repos\BlankSolution\04. Number 100-200\obj\Debug\netcoreapp3.1\04. Number 100-200.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\BlankSolution\04. Number 100-200\bin\Debug\netcoreapp3.1\04. Number 100-200.exe
+C:\Users\krust\source\repos\BlankSolution\04. Number 100-200\bin\Debug\netcoreapp3.1\04. Number 100-200.deps.json
+C:\Users\krust\source\repos\BlankSolution\04. Number 100-200\bin\Debug\netcoreapp3.1\04. Number 100-200.runtimeconfig.json
+C:\Users\krust\source\repos\BlankSolution\04. Number 100-200\bin\Debug\netcoreapp3.1\04. Number 100-200.runtimeconfig.dev.json
+C:\Users\krust\source\repos\BlankSolution\04. Number 100-200\bin\Debug\netcoreapp3.1\04. Number 100-200.dll
+C:\Users\krust\source\repos\BlankSolution\04. Number 100-200\bin\Debug\netcoreapp3.1\04. Number 100-200.pdb
+C:\Users\krust\source\repos\BlankSolution\04. Number 100-200\obj\Debug\netcoreapp3.1\04. Number 100-200.dll
+C:\Users\krust\source\repos\BlankSolution\04. Number 100-200\obj\Debug\netcoreapp3.1\04. Number 100-200.pdb
+C:\Users\krust\source\repos\BlankSolution\04. Number 100-200\obj\Debug\netcoreapp3.1\04. Number 100-200.genruntimeconfig.cache

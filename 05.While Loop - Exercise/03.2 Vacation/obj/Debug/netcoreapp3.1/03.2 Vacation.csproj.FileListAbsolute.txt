@@ -1,0 +1,12 @@
+C:\Users\krust\source\repos\C#Basic\05.While Loop - Exercise\03.2 Vacation\bin\Debug\netcoreapp3.1\03.2 Vacation.exe
+C:\Users\krust\source\repos\C#Basic\05.While Loop - Exercise\03.2 Vacation\bin\Debug\netcoreapp3.1\03.2 Vacation.deps.json
+C:\Users\krust\source\repos\C#Basic\05.While Loop - Exercise\03.2 Vacation\bin\Debug\netcoreapp3.1\03.2 Vacation.runtimeconfig.json
+C:\Users\krust\source\repos\C#Basic\05.While Loop - Exercise\03.2 Vacation\bin\Debug\netcoreapp3.1\03.2 Vacation.runtimeconfig.dev.json
+C:\Users\krust\source\repos\C#Basic\05.While Loop - Exercise\03.2 Vacation\bin\Debug\netcoreapp3.1\03.2 Vacation.dll
+C:\Users\krust\source\repos\C#Basic\05.While Loop - Exercise\03.2 Vacation\bin\Debug\netcoreapp3.1\03.2 Vacation.pdb
+C:\Users\krust\source\repos\C#Basic\05.While Loop - Exercise\03.2 Vacation\obj\Debug\netcoreapp3.1\03.2 Vacation.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\C#Basic\05.While Loop - Exercise\03.2 Vacation\obj\Debug\netcoreapp3.1\03.2 Vacation.AssemblyInfo.cs
+C:\Users\krust\source\repos\C#Basic\05.While Loop - Exercise\03.2 Vacation\obj\Debug\netcoreapp3.1\03.2 Vacation.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\C#Basic\05.While Loop - Exercise\03.2 Vacation\obj\Debug\netcoreapp3.1\03.2 Vacation.dll
+C:\Users\krust\source\repos\C#Basic\05.While Loop - Exercise\03.2 Vacation\obj\Debug\netcoreapp3.1\03.2 Vacation.pdb
+C:\Users\krust\source\repos\C#Basic\05.While Loop - Exercise\03.2 Vacation\obj\Debug\netcoreapp3.1\03.2 Vacation.genruntimeconfig.cache

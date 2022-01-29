@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\05.While Loop - Exercise\01.2 Old Books\bin\Debug\netcoreapp3.1\01.2 Old Books.exe
+C:\Users\krust\source\repos\05.While Loop - Exercise\01.2 Old Books\bin\Debug\netcoreapp3.1\01.2 Old Books.deps.json
+C:\Users\krust\source\repos\05.While Loop - Exercise\01.2 Old Books\bin\Debug\netcoreapp3.1\01.2 Old Books.runtimeconfig.json
+C:\Users\krust\source\repos\05.While Loop - Exercise\01.2 Old Books\bin\Debug\netcoreapp3.1\01.2 Old Books.runtimeconfig.dev.json
+C:\Users\krust\source\repos\05.While Loop - Exercise\01.2 Old Books\bin\Debug\netcoreapp3.1\01.2 Old Books.dll
+C:\Users\krust\source\repos\05.While Loop - Exercise\01.2 Old Books\bin\Debug\netcoreapp3.1\01.2 Old Books.pdb
+C:\Users\krust\source\repos\05.While Loop - Exercise\01.2 Old Books\obj\Debug\netcoreapp3.1\01.2 Old Books.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\05.While Loop - Exercise\01.2 Old Books\obj\Debug\netcoreapp3.1\01.2 Old Books.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\05.While Loop - Exercise\01.2 Old Books\obj\Debug\netcoreapp3.1\01.2 Old Books.AssemblyInfo.cs
+C:\Users\krust\source\repos\05.While Loop - Exercise\01.2 Old Books\obj\Debug\netcoreapp3.1\01.2 Old Books.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\05.While Loop - Exercise\01.2 Old Books\obj\Debug\netcoreapp3.1\01.2 Old Books.dll
+C:\Users\krust\source\repos\05.While Loop - Exercise\01.2 Old Books\obj\Debug\netcoreapp3.1\01.2 Old Books.pdb
+C:\Users\krust\source\repos\05.While Loop - Exercise\01.2 Old Books\obj\Debug\netcoreapp3.1\01.2 Old Books.genruntimeconfig.cache

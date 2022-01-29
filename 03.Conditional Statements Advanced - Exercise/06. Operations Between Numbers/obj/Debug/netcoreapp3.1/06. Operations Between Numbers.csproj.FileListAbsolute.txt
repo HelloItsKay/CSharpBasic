@@ -1,0 +1,12 @@
+C:\Users\krust\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.exe
+C:\Users\krust\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.deps.json
+C:\Users\krust\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.runtimeconfig.json
+C:\Users\krust\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.runtimeconfig.dev.json
+C:\Users\krust\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.dll
+C:\Users\krust\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.pdb
+C:\Users\krust\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.AssemblyInfo.cs
+C:\Users\krust\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.dll
+C:\Users\krust\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.pdb
+C:\Users\krust\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.genruntimeconfig.cache

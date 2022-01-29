@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\For Loop - Exercise\03. Odd or Even Position\bin\Debug\netcoreapp3.1\03. Odd or Even Position.exe
+C:\Users\krust\source\repos\For Loop - Exercise\03. Odd or Even Position\bin\Debug\netcoreapp3.1\03. Odd or Even Position.deps.json
+C:\Users\krust\source\repos\For Loop - Exercise\03. Odd or Even Position\bin\Debug\netcoreapp3.1\03. Odd or Even Position.runtimeconfig.json
+C:\Users\krust\source\repos\For Loop - Exercise\03. Odd or Even Position\bin\Debug\netcoreapp3.1\03. Odd or Even Position.runtimeconfig.dev.json
+C:\Users\krust\source\repos\For Loop - Exercise\03. Odd or Even Position\bin\Debug\netcoreapp3.1\03. Odd or Even Position.dll
+C:\Users\krust\source\repos\For Loop - Exercise\03. Odd or Even Position\bin\Debug\netcoreapp3.1\03. Odd or Even Position.pdb
+C:\Users\krust\source\repos\For Loop - Exercise\03. Odd or Even Position\obj\Debug\netcoreapp3.1\03. Odd or Even Position.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\For Loop - Exercise\03. Odd or Even Position\obj\Debug\netcoreapp3.1\03. Odd or Even Position.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\For Loop - Exercise\03. Odd or Even Position\obj\Debug\netcoreapp3.1\03. Odd or Even Position.AssemblyInfo.cs
+C:\Users\krust\source\repos\For Loop - Exercise\03. Odd or Even Position\obj\Debug\netcoreapp3.1\03. Odd or Even Position.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\For Loop - Exercise\03. Odd or Even Position\obj\Debug\netcoreapp3.1\03. Odd or Even Position.dll
+C:\Users\krust\source\repos\For Loop - Exercise\03. Odd or Even Position\obj\Debug\netcoreapp3.1\03. Odd or Even Position.pdb
+C:\Users\krust\source\repos\For Loop - Exercise\03. Odd or Even Position\obj\Debug\netcoreapp3.1\03. Odd or Even Position.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\krust\source\repos\First Steps in Coding\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.exe
+C:\Users\krust\source\repos\First Steps in Coding\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.deps.json
+C:\Users\krust\source\repos\First Steps in Coding\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.runtimeconfig.json
+C:\Users\krust\source\repos\First Steps in Coding\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.runtimeconfig.dev.json
+C:\Users\krust\source\repos\First Steps in Coding\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.dll
+C:\Users\krust\source\repos\First Steps in Coding\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.pdb
+C:\Users\krust\source\repos\First Steps in Coding\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\First Steps in Coding\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.AssemblyInfo.cs
+C:\Users\krust\source\repos\First Steps in Coding\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\First Steps in Coding\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.dll
+C:\Users\krust\source\repos\First Steps in Coding\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.pdb
+C:\Users\krust\source\repos\First Steps in Coding\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.genruntimeconfig.cache

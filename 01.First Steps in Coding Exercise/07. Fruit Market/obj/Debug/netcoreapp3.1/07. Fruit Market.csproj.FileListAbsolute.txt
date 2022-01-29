@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\First Steps in Coding Exercise\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.exe
+C:\Users\krust\source\repos\First Steps in Coding Exercise\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.deps.json
+C:\Users\krust\source\repos\First Steps in Coding Exercise\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.runtimeconfig.json
+C:\Users\krust\source\repos\First Steps in Coding Exercise\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.runtimeconfig.dev.json
+C:\Users\krust\source\repos\First Steps in Coding Exercise\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.dll
+C:\Users\krust\source\repos\First Steps in Coding Exercise\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.pdb
+C:\Users\krust\source\repos\First Steps in Coding Exercise\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\First Steps in Coding Exercise\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\First Steps in Coding Exercise\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.AssemblyInfo.cs
+C:\Users\krust\source\repos\First Steps in Coding Exercise\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\First Steps in Coding Exercise\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.dll
+C:\Users\krust\source\repos\First Steps in Coding Exercise\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.pdb
+C:\Users\krust\source\repos\First Steps in Coding Exercise\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.genruntimeconfig.cache

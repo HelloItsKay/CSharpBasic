@@ -1,0 +1,12 @@
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\06. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\06. Godzilla vs. Kong.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\06. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\06. Godzilla vs. Kong.AssemblyInfo.cs
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\06. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\06. Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\06. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\06. Godzilla vs. Kong.exe
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\06. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\06. Godzilla vs. Kong.deps.json
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\06. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\06. Godzilla vs. Kong.runtimeconfig.json
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\06. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\06. Godzilla vs. Kong.runtimeconfig.dev.json
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\06. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\06. Godzilla vs. Kong.dll
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\06. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\06. Godzilla vs. Kong.pdb
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\06. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\06. Godzilla vs. Kong.dll
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\06. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\06. Godzilla vs. Kong.pdb
+C:\Users\krust\source\repos\02.Conditional Statements - Exercise\06. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\06. Godzilla vs. Kong.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\First Steps in Coding\SquareArea 03\obj\Debug\netcoreapp3.1\SquareArea 03.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\First Steps in Coding\SquareArea 03\obj\Debug\netcoreapp3.1\SquareArea 03.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\First Steps in Coding\SquareArea 03\obj\Debug\netcoreapp3.1\SquareArea 03.AssemblyInfo.cs
+C:\Users\krust\source\repos\First Steps in Coding\SquareArea 03\obj\Debug\netcoreapp3.1\SquareArea 03.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\First Steps in Coding\SquareArea 03\bin\Debug\netcoreapp3.1\SquareArea 03.exe
+C:\Users\krust\source\repos\First Steps in Coding\SquareArea 03\bin\Debug\netcoreapp3.1\SquareArea 03.deps.json
+C:\Users\krust\source\repos\First Steps in Coding\SquareArea 03\bin\Debug\netcoreapp3.1\SquareArea 03.runtimeconfig.json
+C:\Users\krust\source\repos\First Steps in Coding\SquareArea 03\bin\Debug\netcoreapp3.1\SquareArea 03.runtimeconfig.dev.json
+C:\Users\krust\source\repos\First Steps in Coding\SquareArea 03\bin\Debug\netcoreapp3.1\SquareArea 03.dll
+C:\Users\krust\source\repos\First Steps in Coding\SquareArea 03\bin\Debug\netcoreapp3.1\SquareArea 03.pdb
+C:\Users\krust\source\repos\First Steps in Coding\SquareArea 03\obj\Debug\netcoreapp3.1\SquareArea 03.dll
+C:\Users\krust\source\repos\First Steps in Coding\SquareArea 03\obj\Debug\netcoreapp3.1\SquareArea 03.pdb
+C:\Users\krust\source\repos\First Steps in Coding\SquareArea 03\obj\Debug\netcoreapp3.1\SquareArea 03.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\First Steps in Coding Exercise\06. Charity Campaign-hard\bin\Debug\netcoreapp3.1\06. Charity Campaign-hard.exe
+C:\Users\krust\source\repos\First Steps in Coding Exercise\06. Charity Campaign-hard\bin\Debug\netcoreapp3.1\06. Charity Campaign-hard.deps.json
+C:\Users\krust\source\repos\First Steps in Coding Exercise\06. Charity Campaign-hard\bin\Debug\netcoreapp3.1\06. Charity Campaign-hard.runtimeconfig.json
+C:\Users\krust\source\repos\First Steps in Coding Exercise\06. Charity Campaign-hard\bin\Debug\netcoreapp3.1\06. Charity Campaign-hard.runtimeconfig.dev.json
+C:\Users\krust\source\repos\First Steps in Coding Exercise\06. Charity Campaign-hard\bin\Debug\netcoreapp3.1\06. Charity Campaign-hard.dll
+C:\Users\krust\source\repos\First Steps in Coding Exercise\06. Charity Campaign-hard\bin\Debug\netcoreapp3.1\06. Charity Campaign-hard.pdb
+C:\Users\krust\source\repos\First Steps in Coding Exercise\06. Charity Campaign-hard\obj\Debug\netcoreapp3.1\06. Charity Campaign-hard.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\First Steps in Coding Exercise\06. Charity Campaign-hard\obj\Debug\netcoreapp3.1\06. Charity Campaign-hard.AssemblyInfo.cs
+C:\Users\krust\source\repos\First Steps in Coding Exercise\06. Charity Campaign-hard\obj\Debug\netcoreapp3.1\06. Charity Campaign-hard.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\First Steps in Coding Exercise\06. Charity Campaign-hard\obj\Debug\netcoreapp3.1\06. Charity Campaign-hard.dll
+C:\Users\krust\source\repos\First Steps in Coding Exercise\06. Charity Campaign-hard\obj\Debug\netcoreapp3.1\06. Charity Campaign-hard.pdb
+C:\Users\krust\source\repos\First Steps in Coding Exercise\06. Charity Campaign-hard\obj\Debug\netcoreapp3.1\06. Charity Campaign-hard.genruntimeconfig.cache
+C:\Users\krust\source\repos\First Steps in Coding Exercise\06. Charity Campaign-hard\obj\Debug\netcoreapp3.1\06. Charity Campaign-hard.csprojAssemblyReference.cache

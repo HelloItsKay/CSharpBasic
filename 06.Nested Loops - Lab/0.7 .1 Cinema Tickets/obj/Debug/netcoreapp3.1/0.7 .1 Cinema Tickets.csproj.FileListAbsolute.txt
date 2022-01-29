@@ -1,0 +1,12 @@
+C:\Users\krust\source\repos\06.Nested Loops - Lab\0.7 .1 Cinema Tickets\bin\Debug\netcoreapp3.1\0.7 .1 Cinema Tickets.exe
+C:\Users\krust\source\repos\06.Nested Loops - Lab\0.7 .1 Cinema Tickets\bin\Debug\netcoreapp3.1\0.7 .1 Cinema Tickets.deps.json
+C:\Users\krust\source\repos\06.Nested Loops - Lab\0.7 .1 Cinema Tickets\bin\Debug\netcoreapp3.1\0.7 .1 Cinema Tickets.runtimeconfig.json
+C:\Users\krust\source\repos\06.Nested Loops - Lab\0.7 .1 Cinema Tickets\bin\Debug\netcoreapp3.1\0.7 .1 Cinema Tickets.runtimeconfig.dev.json
+C:\Users\krust\source\repos\06.Nested Loops - Lab\0.7 .1 Cinema Tickets\bin\Debug\netcoreapp3.1\0.7 .1 Cinema Tickets.dll
+C:\Users\krust\source\repos\06.Nested Loops - Lab\0.7 .1 Cinema Tickets\bin\Debug\netcoreapp3.1\0.7 .1 Cinema Tickets.pdb
+C:\Users\krust\source\repos\06.Nested Loops - Lab\0.7 .1 Cinema Tickets\obj\Debug\netcoreapp3.1\0.7 .1 Cinema Tickets.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\06.Nested Loops - Lab\0.7 .1 Cinema Tickets\obj\Debug\netcoreapp3.1\0.7 .1 Cinema Tickets.AssemblyInfo.cs
+C:\Users\krust\source\repos\06.Nested Loops - Lab\0.7 .1 Cinema Tickets\obj\Debug\netcoreapp3.1\0.7 .1 Cinema Tickets.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\06.Nested Loops - Lab\0.7 .1 Cinema Tickets\obj\Debug\netcoreapp3.1\0.7 .1 Cinema Tickets.dll
+C:\Users\krust\source\repos\06.Nested Loops - Lab\0.7 .1 Cinema Tickets\obj\Debug\netcoreapp3.1\0.7 .1 Cinema Tickets.pdb
+C:\Users\krust\source\repos\06.Nested Loops - Lab\0.7 .1 Cinema Tickets\obj\Debug\netcoreapp3.1\0.7 .1 Cinema Tickets.genruntimeconfig.cache

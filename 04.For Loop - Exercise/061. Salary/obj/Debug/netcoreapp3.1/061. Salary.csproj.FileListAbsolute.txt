@@ -1,0 +1,13 @@
+C:\Users\krust\source\repos\For Loop - Exercise\061. Salary\bin\Debug\netcoreapp3.1\061. Salary.exe
+C:\Users\krust\source\repos\For Loop - Exercise\061. Salary\bin\Debug\netcoreapp3.1\061. Salary.deps.json
+C:\Users\krust\source\repos\For Loop - Exercise\061. Salary\bin\Debug\netcoreapp3.1\061. Salary.runtimeconfig.json
+C:\Users\krust\source\repos\For Loop - Exercise\061. Salary\bin\Debug\netcoreapp3.1\061. Salary.runtimeconfig.dev.json
+C:\Users\krust\source\repos\For Loop - Exercise\061. Salary\bin\Debug\netcoreapp3.1\061. Salary.dll
+C:\Users\krust\source\repos\For Loop - Exercise\061. Salary\bin\Debug\netcoreapp3.1\061. Salary.pdb
+C:\Users\krust\source\repos\For Loop - Exercise\061. Salary\obj\Debug\netcoreapp3.1\061. Salary.csprojAssemblyReference.cache
+C:\Users\krust\source\repos\For Loop - Exercise\061. Salary\obj\Debug\netcoreapp3.1\061. Salary.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\For Loop - Exercise\061. Salary\obj\Debug\netcoreapp3.1\061. Salary.AssemblyInfo.cs
+C:\Users\krust\source\repos\For Loop - Exercise\061. Salary\obj\Debug\netcoreapp3.1\061. Salary.csproj.CoreCompileInputs.cache
+C:\Users\krust\source\repos\For Loop - Exercise\061. Salary\obj\Debug\netcoreapp3.1\061. Salary.dll
+C:\Users\krust\source\repos\For Loop - Exercise\061. Salary\obj\Debug\netcoreapp3.1\061. Salary.pdb
+C:\Users\krust\source\repos\For Loop - Exercise\061. Salary\obj\Debug\netcoreapp3.1\061. Salary.genruntimeconfig.cache
